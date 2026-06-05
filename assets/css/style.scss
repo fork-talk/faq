@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+
+  &:hover .anchor-link {
+    opacity: 1;
+  }
+}
+
+.anchor-link {
+  opacity: 0;
+  margin-left: 0.3em;
+  text-decoration: none;
+  color: #aaa;
+  font-weight: normal;
+  transition: opacity 0.2s;
+
+  &:hover {
+    color: #555;
+  }
+}
