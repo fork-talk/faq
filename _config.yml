@@ -1,6 +1,9 @@
 theme: minima
 title: Fork Talk
 description: Community FAQ about Bitcoin forks
+markdown: kramdown
+kramdown:
+  auto_ids: true
 header_pages:
   - forks/bip-110.md
   - forks/ecash.md
