@@ -8,7 +8,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: logo.png
+      image: og-image.png
 markdown: kramdown
 kramdown:
   auto_ids: true

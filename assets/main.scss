@@ -3,7 +3,7 @@
 
 @import "minima";
 
-h1, h2, h3, h4, h5, h6 {
+h1[id], h2[id], h3[id], h4[id] {
   position: relative;
 
   &:hover .anchor-link {
@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   color: #aaa;
   font-weight: normal;
+  font-size: 0.8em;
   transition: opacity 0.2s;
 
   &:hover {
