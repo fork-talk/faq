@@ -8,7 +8,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /faq/logo.png
+      image: logo.png
 markdown: kramdown
 kramdown:
   auto_ids: true
@@ -16,5 +16,6 @@ header_pages:
   - forks/bip-110.md
   - forks/ecash.md
   - general-faq.md
+  - talking-points.md
 minima:
   skin: classic

@@ -68,9 +68,9 @@ Hard forks without overwhelming consensus create permanent chain splits.
 
 Common questions about Bitcoin governance, terminology, and discussion norms - including why the word "consensus" should be avoided, who decides Bitcoin's rules, relay policy vs consensus rules, and more.
 
-## [Common Talking Points](general-faq.md#common-talking-points)
+## [Common Talking Points](talking-points.md)
 
-Data-driven responses to claims that come up repeatedly: ["there is no way of stopping spam"](general-faq.md#there-is-no-way-of-stopping-spam), ["this is censorship"](general-faq.md#this-is-censorship), ["miners should decide"](general-faq.md#miners-should-decide), ["dynamic fees already solve this"](general-faq.md#dynamic-fees-already-solve-this), ["it doesn't actually stop spam"](general-faq.md#it-doesnt-actually-stop-spam--bip-110-does-nothing), and more.
+Data-driven responses to claims that come up repeatedly: ["there is no way of stopping spam"](talking-points.md#there-is-no-way-of-stopping-spam), ["this is censorship"](talking-points.md#this-is-censorship), ["miners should decide"](talking-points.md#miners-should-decide), ["dynamic fees already solve this"](talking-points.md#dynamic-fees-already-solve-this), ["it doesn't actually stop spam"](talking-points.md#it-doesnt-actually-stop-spam--bip-110-does-nothing), and more.
 
 ---
 
