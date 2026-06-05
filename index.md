@@ -61,7 +61,6 @@ Hard forks without overwhelming consensus create permanent chain splits.
 | [BIP-110](forks/bip-110.md) | Temporary soft fork | Proposed - data-reduction rules, auto-expires ~1 year |
 | [eCash](forks/ecash.md) | Fork proposal | Proposed - see [ecash.com](https://ecash.com) |
 
-Other active discussions: [OP_CTV (BIP-119)](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki), [OP_CAT (BIP-347)](https://github.com/bitcoin/bips/blob/master/bip-0347.mediawiki), Great Consensus Cleanup.
 
 ---
 
