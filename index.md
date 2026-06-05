@@ -74,8 +74,7 @@ Common questions about Bitcoin governance, terminology, and discussion norms - i
 
 - **Run a node** - The most direct way to participate in Bitcoin governance
 - **Contribute data** - Empirical analysis is more valuable than opinion
-- **Submit PRs** - Improve this FAQ, correct errors, add sources
-- **Open issues** - Suggest questions or flag inaccuracies
+- **[Contribute to this FAQ](https://github.com/fork-talk/faq)** - Submit PRs, open issues, suggest questions
 
 ## Learn More
 
@@ -83,8 +82,7 @@ Common questions about Bitcoin governance, terminology, and discussion norms - i
 - [BIP repository](https://github.com/bitcoin/bips) - All proposals
 - [bip110.org](https://bip110.org/) - BIP-110 community hub, installation guides, FAQ
 - [Bitcoin Block Space Weekly](https://blockspaceweekly.substack.com/) - Empirical block space analysis (Renaud Cuny)
-- [fork-talk GitHub org](https://github.com/fork-talk)
 
 ---
 
-*Community effort. Does not represent any individual or organization. Corrections welcome via PR.*
+*Community effort. Does not represent any individual or organization. [Corrections welcome via PR.](https://github.com/fork-talk/faq)*
