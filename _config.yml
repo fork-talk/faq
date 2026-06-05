@@ -4,5 +4,6 @@ description: Community FAQ about Bitcoin forks
 header_pages:
   - forks/bip-110.md
   - forks/ecash.md
+  - general-faq.md
 minima:
   skin: classic

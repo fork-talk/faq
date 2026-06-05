@@ -65,6 +65,12 @@ Other active discussions: [OP_CTV (BIP-119)](https://github.com/bitcoin/bips/blo
 
 ---
 
+## [General FAQ](general-faq.md)
+
+Common questions about Bitcoin governance, terminology, and discussion norms - including why the word "consensus" should be avoided, who decides Bitcoin's rules, relay policy vs consensus rules, and more.
+
+---
+
 ## Getting Involved
 
 - **Run a node** - The most direct way to participate in Bitcoin governance
