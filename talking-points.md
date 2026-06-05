@@ -37,7 +37,12 @@ The word "censorship" is being repurposed to make spam filtering sound like an a
 
 ### "Filtering data today means blacklisting transactions tomorrow"
 
-This conflates two completely different things. BIP-110 filters by transaction *structure* - whether a transaction embeds arbitrary data in witness space or exceeds OP_RETURN limits. It does not look at who sent the transaction, where the coins came from, or what the transaction is for.
+This is a category error. It conflates two fundamentally different categories:
+
+- **Structural filtering** - rejecting transactions based on what they *are* (data embedding vs financial transfer). Objective, technical, auditable. No identity required.
+- **Transaction blacklisting** - rejecting transactions based on who sent them or *why*. Subjective, requires identity and surveillance infrastructure that does not exist in the protocol.
+
+These are not on the same spectrum. You cannot slide from one to the other because they operate on entirely different inputs. BIP-110 filters by transaction *structure* - whether a transaction embeds arbitrary data in witness space or exceeds OP_RETURN limits. It does not look at who sent the transaction, where the coins came from, or what the transaction is for.
 
 Financial transactions are structurally different from data-embedding transactions. A bitcoin payment does not look like a JPEG inscribed in witness data. The filter rules are objective, technical, and auditable - not subjective.
 
