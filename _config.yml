@@ -1,5 +1,8 @@
 theme: minima
 title: Fork Talk
 description: Community FAQ about Bitcoin forks
+header_pages:
+  - forks/bip-110.md
+  - forks/ecash.md
 minima:
   skin: classic
