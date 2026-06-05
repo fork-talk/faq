@@ -18,7 +18,7 @@ An unofficial, community-driven FAQ about Bitcoin forks — what they are, how t
 
 ## Contents
 
-- [FAQ.md](FAQ.md) — The FAQ
+- [FAQ](index.md) — The FAQ
 
 ## License
 

@@ -1,0 +1,5 @@
+theme: minima
+title: Fork Talk
+description: Community FAQ about Bitcoin forks
+minima:
+  skin: classic

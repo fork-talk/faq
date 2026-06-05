@@ -1,3 +1,11 @@
+---
+layout: home
+---
+
+<p align="center">
+  <img src="logo.png" alt="Fork Talk" width="200">
+</p>
+
 # Bitcoin Forks FAQ
 
 A beginner-friendly guide to understanding Bitcoin forks — what they are, what types exist, which ones have happened, and what's being discussed today.
