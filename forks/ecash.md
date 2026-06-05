@@ -10,7 +10,7 @@ title: "eCash"
 | | |
 |---|---|
 | **Year** | Proposed |
-| **Type** | Fork proposal |
+| **Type** | Hard fork |
 | **Website** | [ecash.com](https://ecash.com) |
 | **Status** | Proposed |
 

@@ -58,8 +58,8 @@ Hard forks without overwhelming consensus create permanent chain splits.
 
 | Proposal | Type | Status |
 |----------|------|--------|
-| [BIP-110](forks/bip-110.md) | Temporary soft fork | Proposed - data-reduction rules, auto-expires ~1 year |
-| [eCash](forks/ecash.md) | Fork proposal | Proposed - see [ecash.com](https://ecash.com) |
+| [BIP-110](forks/bip-110.md) | UASF (temporary soft fork) | Proposed - data-reduction rules, auto-expires ~1 year |
+| [eCash](forks/ecash.md) | Hard fork | Proposed - see [ecash.com](https://ecash.com) |
 
 
 ---
