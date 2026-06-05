@@ -1,6 +1,6 @@
 # Fork Talk FAQ
 
-An unofficial, community-driven FAQ about Bitcoin forks — what they are, how they work, and what's being discussed today.
+An unofficial, community-driven FAQ about Bitcoin forks - what they are, how they work, and what's being discussed today.
 
 ## Philosophy
 
@@ -14,11 +14,11 @@ An unofficial, community-driven FAQ about Bitcoin forks — what they are, how t
 
 1. Open an issue suggesting a question or correction
 2. Fork the repo and submit a PR
-3. Cite your sources — data beats opinion
+3. Cite your sources - data beats opinion
 
 ## Contents
 
-- [FAQ](index.md) — The FAQ
+- [FAQ](index.md) - The FAQ
 
 ## License
 
