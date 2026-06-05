@@ -1,7 +1,13 @@
 theme: minima
-title: Fork Talk
-description: Community FAQ about Bitcoin forks
+title: Fork Talk - Bitcoin Forks FAQ
+tagline: Understanding Bitcoin forks, proposals, and common talking points
+description: Community FAQ about Bitcoin forks - what they are, how they work, historical and current proposals including BIP-110 and eCash, and data-driven responses to common talking points.
 url: https://fork-talk.github.io/faq
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /faq/logo.png
 markdown: kramdown
 kramdown:
   auto_ids: true
