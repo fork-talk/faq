@@ -35,6 +35,23 @@ The word "censorship" is being repurposed to make spam filtering sound like an a
 
 ---
 
+### "Filtering data today means blacklisting transactions tomorrow"
+
+This conflates two completely different things. BIP-110 filters by transaction *structure* - whether a transaction embeds arbitrary data in witness space or exceeds OP_RETURN limits. It does not look at who sent the transaction, where the coins came from, or what the transaction is for.
+
+Financial transactions are structurally different from data-embedding transactions. A bitcoin payment does not look like a JPEG inscribed in witness data. The filter rules are objective, technical, and auditable - not subjective.
+
+The comparison to blacklisting "black market transactions" fails because:
+
+1. **BIP-110 cannot identify the purpose of a financial transaction.** It has no concept of "black market" vs "legal" payments. It only sees transaction structure.
+2. **Every relay policy Bitcoin has ever had works this way.** Dust limits reject transactions below a size threshold. Standardness rules reject non-standard script types. Neither has ever been extended to blacklist transactions by sender or purpose.
+3. **The 80-byte OP_RETURN limit operated for a decade** without anyone seriously arguing it would lead to transaction blacklisting. The slippery slope did not materialise in 10 years.
+4. **The incentive structures are opposite.** Bitcoin users unanimously want financial transactions to be uncensorable - that is the entire point of the system. There is no constituency for blacklisting payments. There is a clear constituency for filtering JPEGs out of block space.
+
+If structural filtering of non-financial data were a gateway to transaction blacklisting, dust limits would have led there decades ago. They did not.
+
+---
+
 ### "Miners should decide"
 
 Miners secure the network. They do not govern it.
